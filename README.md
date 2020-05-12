@@ -1,10 +1,11 @@
 # Crash-Course-Python
 -> Be advised that the code has been tested in jupiter notebooks 
+
 Word Cloud
 -> Word Cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Significant textual data points can be highlighted using a word cloud.
 
 Problem Statement
-Create a "word cloud" from a text by procssing the text and return a dictionary that outputs the frequency of each words.
+    Create a "word cloud" from a text by procssing the text and return a dictionary that outputs the frequency of each words.
 
 Criteria To Follow
   Input
@@ -18,7 +19,7 @@ Criteria To Follow
     A dictionary is the output of the calculate_frequencies function. The wordcloud module will then generate the image from your         
     dictionary.
     
-  Approuch
+  approach
     1. Browse and upload a text to be processed
     2. Remove puntuations and normalize the letters
     3. Create a set to store the uninteresting words
